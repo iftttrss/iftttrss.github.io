@@ -13,4 +13,3 @@ You already know too much.
 ### Contact me
 
 [christophruss.github.io](http://christophruss.github.io)
-<!--[email@domain.com](mailto:email@domain.com)-->
