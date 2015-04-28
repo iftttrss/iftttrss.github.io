@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%e. %B %Y" }} at {{ page.date | date: "%H:%M:%S %z" }}
+    Written on {{ page.date | date: "%e. %B %Y" }} at {{ page.date | date: "%H:%M:%S Zone:%Z" }}
   </div>
 
   {% include disqus.html %}
