@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Next tram leaving in 5 min
+title: Next tram leaving at 13:40
+date: 2015-04-28 12:40:45 +0002
 ---
 
-Time: 12:40pm
+Next tram: 13:40
